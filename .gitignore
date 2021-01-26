@@ -14,3 +14,9 @@ PythonAPI/pycocotools/_mask.so
 PythonAPI/pycocotools/coco.pyc
 PythonAPI/pycocotools/cocoeval.pyc
 PythonAPI/pycocotools/mask.pyc
+PythonAPI/dist/pycocotools-2.0-py3.6-linux-x86_64.egg
+PythonAPI/pycocotools.egg-info/dependency_links.txt
+PythonAPI/pycocotools.egg-info/PKG-INFO
+PythonAPI/pycocotools.egg-info/requires.txt
+PythonAPI/pycocotools.egg-info/SOURCES.txt
+PythonAPI/pycocotools.egg-info/top_level.txt
