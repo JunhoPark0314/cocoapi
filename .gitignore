@@ -20,3 +20,8 @@ PythonAPI/pycocotools.egg-info/PKG-INFO
 PythonAPI/pycocotools.egg-info/requires.txt
 PythonAPI/pycocotools.egg-info/SOURCES.txt
 PythonAPI/pycocotools.egg-info/top_level.txt
+
+*.o
+*.so
+*.egg
+*.pyc
